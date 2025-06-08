@@ -18,9 +18,7 @@ echo "Start React"
 cd frontend
 npm start &
 FRONTEND_PID=$!
-cd ..
-cd ..
+cd ../..
 
-trap "echo 'Stopping...'; kill -TERM $BACKEND_PID $FRONTEND_PID; wait" SIGINT SIGTERM
-
+trap "echo 'Stopping...'; kill $BACKEND_PID -$FRONTEND_PID; wait" SIGINT SIGTERM
 wait

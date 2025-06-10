@@ -6,3 +6,4 @@ torch
 peft
 pydantic
 pandas
+scikit-learn

@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "졸업하려면 전공 몇 학점 들어야 해?",
+        "label": 0
+    },
+    {
+        "question": "전공 이수 학점 기준이 어떻게 돼?",
+        "label": 0
+    },
+    {
+        "question": "전공 과목은 몇 학점 채워야 졸업할 수 있어?",
+        "label": 0
+    },
+    {
+        "question": "전공 학점은 얼마나 들어야 하는 거야?",
+        "label": 0
+    },
+    {
+        "question": "전공은 몇 학점 이상 들어야 졸업 요건을 충족해?",
+        "label": 0
+    },
+    {
+        "question": "전체 졸업 학점은 몇 학점이야?",
+        "label": 0
+    },
+    {
+        "question": "졸업 기준 학점이 어떻게 돼?",
+        "label": 0
+    },
+    {
+        "question": "총 몇 학점 이상 들어야 졸업이 가능해?",
+        "label": 0
+    },
+    {
+        "question": "학점은 몇 점 이상 있어야 졸업할 수 있어?",
+        "label": 0
+    },
+    {
+        "question": "졸업 조건으로 필요한 총 학점 수는?",
+        "label": 0
+    },
+    {
+        "question": "교양은 몇 과목 들어야 해?",
+        "label": 0
+    },
+    {
+        "question": "교양 수업은 몇 개 들어야 졸업 조건 맞춰?",
+        "label": 0
+    },
+    {
+        "question": "교양 몇 과목 이수해야 해?",
+        "label": 0
+    },
+    {
+        "question": "필수 교양 과목 수가 어떻게 돼?",
+        "label": 0
+    },
+    {
+        "question": "교양은 얼마나 들어야 요건 충족돼?",
+        "label": 0
+    },
+    {
+        "question": "졸업하려면 논문 꼭 써야 해?",
+        "label": 0
+    },
+    {
+        "question": "논문 제출 안 하면 졸업 못 해?",
+        "label": 0
+    },
+    {
+        "question": "졸업 요건에 논문 포함돼?",
+        "label": 0
+    },
+    {
+        "question": "논문 없이도 졸업 가능한가?",
+        "label": 0
+    },
+    {
+        "question": "졸업 논문 필수야, 선택이야?",
+        "label": 0
+    },
+    {
+        "question": "졸업 요건은 어디서 볼 수 있어?",
+        "label": 0
+    },
+    {
+        "question": "어디서 졸업 조건 확인할 수 있어?",
+        "label": 0
+    },
+    {
+        "question": "졸업 기준 확인은 어디서 해?",
+        "label": 0
+    },
+    {
+        "question": "졸업에 필요한 조건은 어디서 찾아?",
+        "label": 0
+    },
+    {
+        "question": "졸업 이수 사항은 어디서 알 수 있어?",
+        "label": 0
+    },
+    {
+        "question": "올해 졸업 기준이 변경됐어?",
+        "label": 0
+    },
+    {
+        "question": "졸업 조건에 변화 생겼어?",
+        "label": 0
+    },
+    {
+        "question": "졸업 요건이 작년이랑 달라졌어?",
+        "label": 0
+    },
+    {
+        "question": "졸업 규정 올해 바뀐 거 있어?",
+        "label": 0
+    },
+    {
+        "question": "이번 년도 졸업 요건에 수정된 내용 있어?",
+        "label": 0
+    },
+    {
+        "question": "부전공 추가하면 졸업 기준이 바뀌어?",
+        "label": 0
+    },
+    {
+        "question": "부전공하면 필요한 학점 더 있어?",
+        "label": 0
+    },
+    {
+        "question": "부전공하면 이수 조건 달라지는 거야?",
+        "label": 0
+    },
+    {
+        "question": "졸업 요건, 부전공하면 바뀌는 거 있나?",
+        "label": 0
+    },
+    {
+        "question": "부전공하면 졸업하는 데 필요한 요건 늘어나?",
+        "label": 0
+    },
+    {
+        "question": "졸업 요건 다 채웠는지 어떻게 알아?",
+        "label": 0
+    },
+    {
+        "question": "졸업 조건 충족 여부는 어디서 확인해?",
+        "label": 0
+    },
+    {
+        "question": "내가 졸업 가능한지 확인하려면 어떻게 해야 해?",
+        "label": 0
+    },
+    {
+        "question": "졸업 가능 여부 확인은 어떻게 해?",
+        "label": 0
+    },
+    {
+        "question": "요건 다 이수했는지 확인하는 방법이 뭐야?",
+        "label": 0
+    },
+    {
+        "question": "교직 과목도 졸업 학점에 들어가?",
+        "label": 0
+    },
+    {
+        "question": "교직 이수는 졸업 기준에 반영돼?",
+        "label": 0
+    },
+    {
+        "question": "교직 이수해야 졸업할 수 있어?",
+        "label": 0
+    },
+    {
+        "question": "교직도 졸업 요건 중 하나야?",
+        "label": 0
+    },
+    {
+        "question": "졸업 요건에 교직 포함되는 거 맞아?",
+        "label": 0
+    },
+    {
+        "question": "실습 수업 학점도 졸업 학점으로 인정돼?",
+        "label": 0
+    },
+    {
+        "question": "실습 들은 것도 졸업 기준에 포함돼?",
+        "label": 0
+    },
+    {
+        "question": "실습도 졸업 요건에 들어가는 거야?",
+        "label": 0
+    },
+    {
+        "question": "실습 과목도 학점으로 인정받아?",
+        "label": 0
+    },
+    {
+        "question": "졸업에 실습 학점도 계산돼?",
+        "label": 0
+    },
+    {
+        "question": "오늘 올라온 공지 뭐 있어?",
+        "label": 1
+    },
+    {
+        "question": "오늘 새 공지사항 확인했어?",
+        "label": 1
+    },
+    {
+        "question": "오늘 어떤 공지 올라왔는지 알아?",
+        "label": 1
+    },
+    {
+        "question": "방금 올라온 공지 있나?",
+        "label": 1
+    },
+    {
+        "question": "오늘 게시된 공지 뭐야?",
+        "label": 1
+    },
+    {
+        "question": "학과 관련 공지 어디서 확인해?",
+        "label": 1
+    },
+    {
+        "question": "전공 공지사항은 어디서 봐?",
+        "label": 1
+    },
+    {
+        "question": "학과 공지는 어디에 올라와?",
+        "label": 1
+    },
+    {
+        "question": "학과 공지 확인은 어디서 해?",
+        "label": 1
+    },
+    {
+        "question": "학과 관련 공지 어디서 볼 수 있어?",
+        "label": 1
+    },
+    {
+        "question": "장학금 공지 올라온 거 있어?",
+        "label": 1
+    },
+    {
+        "question": "장학금 신청 관련 공지 떴어?",
+        "label": 1
+    },
+    {
+        "question": "이번 학기 장학금 안내 떴나?",
+        "label": 1
+    },
+    {
+        "question": "장학금 공지 확인했어?",
+        "label": 1
+    },
+    {
+        "question": "장학금 신청 일정 공지 나왔어?",
+        "label": 1
+    },
+    {
+        "question": "학교 공지는 언제 올라와?",
+        "label": 1
+    },
+    {
+        "question": "공지사항은 매일 업데이트돼?",
+        "label": 1
+    },
+    {
+        "question": "홈페이지에 공지는 주로 언제 올라와?",
+        "label": 1
+    },
+    {
+        "question": "학교 공지 올라오는 시간 정해져 있어?",
+        "label": 1
+    },
+    {
+        "question": "학교 홈페이지에 공지 언제 확인할 수 있어?",
+        "label": 1
+    },
+    {
+        "question": "이번 주 중요한 공지 뭐 있어?",
+        "label": 1
+    },
+    {
+        "question": "이번 주에 알아야 할 공지사항 있어?",
+        "label": 1
+    },
+    {
+        "question": "이번 주 공지 중에 중요한 거 있나?",
+        "label": 1
+    },
+    {
+        "question": "이번 주 꼭 확인해야 할 공지 있어?",
+        "label": 1
+    },
+    {
+        "question": "이번 주 공지사항 요약해줄 수 있어?",
+        "label": 1
+    },
+    {
+        "question": "수업 관련 공지는 어디 확인해?",
+        "label": 1
+    },
+    {
+        "question": "수업 변경 공지 어디서 봐?",
+        "label": 1
+    },
+    {
+        "question": "수업 공지사항은 어디 올라와?",
+        "label": 1
+    },
+    {
+        "question": "수업 관련된 내용은 어디 공지돼?",
+        "label": 1
+    },
+    {
+        "question": "수업에 관한 공지는 어디 확인해야 해?",
+        "label": 1
+    },
+    {
+        "question": "교양 수업 폐강됐다는 공지 떴어?",
+        "label": 1
+    },
+    {
+        "question": "교양 폐강 소식 올라온 거 있어?",
+        "label": 1
+    },
+    {
+        "question": "교양 과목 폐강 안내 확인했어?",
+        "label": 1
+    },
+    {
+        "question": "이번에 폐강된 교양 과목 있어?",
+        "label": 1
+    },
+    {
+        "question": "교양 폐강 공지 어디 올라왔어?",
+        "label": 1
+    },
+    {
+        "question": "동아리 관련 공지 어디서 확인해?",
+        "label": 1
+    },
+    {
+        "question": "동아리 모집 공지 어디에 나와?",
+        "label": 1
+    },
+    {
+        "question": "이번에 모집하는 동아리 공지 떴어?",
+        "label": 1
+    },
+    {
+        "question": "동아리 관련된 공지사항 확인했어?",
+        "label": 1
+    },
+    {
+        "question": "동아리 모집 정보는 어디서 얻어?",
+        "label": 1
+    },
+    {
+        "question": "시험 시간 변경된 공지 나왔어?",
+        "label": 1
+    },
+    {
+        "question": "오늘 시험 시간 바뀐다는 공지 봤어?",
+        "label": 1
+    },
+    {
+        "question": "시험 시간 바뀌었다는 공지 어디 있어?",
+        "label": 1
+    },
+    {
+        "question": "시험 시간 변경 안내 확인했어?",
+        "label": 1
+    },
+    {
+        "question": "시험 시간 달라졌다는 공지 떴어?",
+        "label": 1
+    },
+    {
+        "question": "수업 장소 바뀐다는 얘기 못 들었는데?",
+        "label": 1
+    },
+    {
+        "question": "수업 장소 변경된 공지 못 본 것 같아",
+        "label": 1
+    },
+    {
+        "question": "강의실 바뀐다는 공지 확인 못 했는데?",
+        "label": 1
+    },
+    {
+        "question": "장소 변경된 수업 있다는 공지 어디 있어?",
+        "label": 1
+    },
+    {
+        "question": "수업 장소 바뀐 거 공지 못 봤어",
+        "label": 1
+    },
+    {
+        "question": "수강 신청 시작일 언제야?",
+        "label": 2
+    },
+    {
+        "question": "언제부터 수강 신청할 수 있어?",
+        "label": 2
+    },
+    {
+        "question": "수강 신청 언제 열려?",
+        "label": 2
+    },
+    {
+        "question": "수강 신청 일정 알려줘",
+        "label": 2
+    },
+    {
+        "question": "이번 학기 수강 신청은 언제 시작돼?",
+        "label": 2
+    },
+    {
+        "question": "수강 정정 마감일 언제야?",
+        "label": 2
+    },
+    {
+        "question": "수강 변경은 언제까지 가능해?",
+        "label": 2
+    },
+    {
+        "question": "수강 정정 가능한 기간 알려줘",
+        "label": 2
+    },
+    {
+        "question": "수강 신청 수정은 언제까지야?",
+        "label": 2
+    },
+    {
+        "question": "수강 정정 마감 날짜가 어떻게 돼?",
+        "label": 2
+    },
+    {
+        "question": "이번 학기 언제 개강해?",
+        "label": 2
+    },
+    {
+        "question": "개강일정 좀 알려줘",
+        "label": 2
+    },
+    {
+        "question": "개강은 몇 월 며칠이야?",
+        "label": 2
+    },
+    {
+        "question": "이번 학기 수업은 언제부터야?",
+        "label": 2
+    },
+    {
+        "question": "언제 개강인지 알고 싶어",
+        "label": 2
+    },
+    {
+        "question": "기말고사 일정 나왔어?",
+        "label": 2
+    },
+    {
+        "question": "기말고사 언제 시작해?",
+        "label": 2
+    },
+    {
+        "question": "이번 학기 기말시험 언제야?",
+        "label": 2
+    },
+    {
+        "question": "기말고사 기간 알려줘",
+        "label": 2
+    },
+    {
+        "question": "기말 시험은 언제부터야?",
+        "label": 2
+    },
+    {
+        "question": "방학 날짜 언제부터야?",
+        "label": 2
+    },
+    {
+        "question": "언제부터 방학이야?",
+        "label": 2
+    },
+    {
+        "question": "이번 방학은 언제 시작해?",
+        "label": 2
+    },
+    {
+        "question": "방학 일정 알려줘",
+        "label": 2
+    },
+    {
+        "question": "이번 학기 방학은 언제야?",
+        "label": 2
+    },
+    {
+        "question": "수료식 언제 열려?",
+        "label": 2
+    },
+    {
+        "question": "수료식 일정 확인할 수 있어?",
+        "label": 2
+    },
+    {
+        "question": "올해 수료식은 언제야?",
+        "label": 2
+    },
+    {
+        "question": "수료식 날짜 정해졌어?",
+        "label": 2
+    },
+    {
+        "question": "졸업식 말고 수료식 일정 알려줘",
+        "label": 2
+    },
+    {
+        "question": "계절학기 신청 마감일 알려줘",
+        "label": 2
+    },
+    {
+        "question": "계절학기 등록 언제까지 할 수 있어?",
+        "label": 2
+    },
+    {
+        "question": "계절학기 수강 신청은 언제까지야?",
+        "label": 2
+    },
+    {
+        "question": "계절 수업 등록 마감일 알아?",
+        "label": 2
+    },
+    {
+        "question": "계절학기 신청 언제 마감돼?",
+        "label": 2
+    },
+    {
+        "question": "휴학 신청 마감일 언제야?",
+        "label": 2
+    },
+    {
+        "question": "언제까지 휴학 신청할 수 있어?",
+        "label": 2
+    },
+    {
+        "question": "휴학은 언제 신청해야 해?",
+        "label": 2
+    },
+    {
+        "question": "휴학 신청 일정이 궁금해",
+        "label": 2
+    },
+    {
+        "question": "휴학 신청은 어떤 기간에 해야 해?",
+        "label": 2
+    },
+    {
+        "question": "복학 신청 일정 어떻게 돼?",
+        "label": 2
+    },
+    {
+        "question": "복학은 언제 신청해?",
+        "label": 2
+    },
+    {
+        "question": "복학 가능한 기간이 언제야?",
+        "label": 2
+    },
+    {
+        "question": "복학 일정 좀 알려줘",
+        "label": 2
+    },
+    {
+        "question": "복학 신청은 언제부터 가능해?",
+        "label": 2
+    },
+    {
+        "question": "학사일정표는 어디서 확인해?",
+        "label": 2
+    },
+    {
+        "question": "학교 학사일정 어디서 볼 수 있어?",
+        "label": 2
+    },
+    {
+        "question": "학사일정표는 어디에 올라와?",
+        "label": 2
+    },
+    {
+        "question": "이번 학기 학사일정표 어디 있어?",
+        "label": 2
+    },
+    {
+        "question": "학사일정표 확인하려면 어디 가야 해?",
+        "label": 2
+    },
+    {
+        "question": "오늘 학식 메뉴 뭐야?",
+        "label": 3
+    },
+    {
+        "question": "오늘 점심 뭐 나와?",
+        "label": 3
+    },
+    {
+        "question": "오늘 학식 뭐 먹을 수 있어?",
+        "label": 3
+    },
+    {
+        "question": "오늘 급식 뭐 있는지 알아?",
+        "label": 3
+    },
+    {
+        "question": "오늘 식단표 확인했어?",
+        "label": 3
+    },
+    {
+        "question": "이번 주 학식 뭐 나와?",
+        "label": 3
+    },
+    {
+        "question": "주간 식단표 어디서 봐?",
+        "label": 3
+    },
+    {
+        "question": "이번 주 급식 메뉴 어떻게 돼?",
+        "label": 3
+    },
+    {
+        "question": "이번 주 식단 좀 알려줄래?",
+        "label": 3
+    },
+    {
+        "question": "주간 식단은 어디 확인해?",
+        "label": 3
+    },
+    {
+        "question": "교직원 식당도 같은 메뉴야?",
+        "label": 3
+    },
+    {
+        "question": "학생식당이랑 교직원식당 메뉴 똑같아?",
+        "label": 3
+    },
+    {
+        "question": "교직원 식당 식단 별도야?",
+        "label": 3
+    },
+    {
+        "question": "교직원도 같은 학식 먹어?",
+        "label": 3
+    },
+    {
+        "question": "교직원 식단 다르게 나와?",
+        "label": 3
+    },
+    {
+        "question": "저녁에도 학식 먹을 수 있어?",
+        "label": 3
+    },
+    {
+        "question": "저녁 식사 제공돼?",
+        "label": 3
+    },
+    {
+        "question": "학식 저녁 운영해?",
+        "label": 3
+    },
+    {
+        "question": "저녁에도 식당 열려?",
+        "label": 3
+    },
+    {
+        "question": "밤에도 밥 먹을 수 있어?",
+        "label": 3
+    },
+    {
+        "question": "오늘 돈가스 나와?",
+        "label": 3
+    },
+    {
+        "question": "오늘 점심에 돈까스 있어?",
+        "label": 3
+    },
+    {
+        "question": "돈가스 메뉴 오늘이야?",
+        "label": 3
+    },
+    {
+        "question": "오늘 돈까스 먹을 수 있어?",
+        "label": 3
+    },
+    {
+        "question": "오늘 밥에 돈까스 나오는 날이야?",
+        "label": 3
+    },
+    {
+        "question": "주말에도 학식 운영해?",
+        "label": 3
+    },
+    {
+        "question": "토요일에도 밥 나와?",
+        "label": 3
+    },
+    {
+        "question": "주말 식사 제공돼?",
+        "label": 3
+    },
+    {
+        "question": "주말에 식당 문 열어?",
+        "label": 3
+    },
+    {
+        "question": "일요일에도 학식 가능해?",
+        "label": 3
+    },
+    {
+        "question": "식단표는 매일 바뀌어?",
+        "label": 3
+    },
+    {
+        "question": "매일 식단 다른 거 나와?",
+        "label": 3
+    },
+    {
+        "question": "식단 매일매일 바뀌는 거야?",
+        "label": 3
+    },
+    {
+        "question": "학식 메뉴 매일 다르게 나와?",
+        "label": 3
+    },
+    {
+        "question": "오늘 메뉴랑 내일 메뉴 달라?",
+        "label": 3
+    },
+    {
+        "question": "기숙사 식당 메뉴 어디서 확인해?",
+        "label": 3
+    },
+    {
+        "question": "기숙사 식단표 어디서 볼 수 있어?",
+        "label": 3
+    },
+    {
+        "question": "기숙사 식당 식단 확인하려면 어디 봐야 해?",
+        "label": 3
+    },
+    {
+        "question": "기숙사 식당 이번 주 식단 알려줘",
+        "label": 3
+    },
+    {
+        "question": "기숙사 식당 식단표 나왔어?",
+        "label": 3
+    },
+    {
+        "question": "내일 점심 메뉴 알 수 있어?",
+        "label": 3
+    },
+    {
+        "question": "내일 뭐 나오는지 미리 알아?",
+        "label": 3
+    },
+    {
+        "question": "내일 학식 메뉴는 어떻게 돼?",
+        "label": 3
+    },
+    {
+        "question": "내일 밥 뭐 나올지 궁금해",
+        "label": 3
+    },
+    {
+        "question": "내일 급식 뭐 나와?",
+        "label": 3
+    },
+    {
+        "question": "학식 운영 시간 좀 알려줘",
+        "label": 3
+    },
+    {
+        "question": "식당 문 여는 시간 언제야?",
+        "label": 3
+    },
+    {
+        "question": "학식 시간표 확인 어디서 해?",
+        "label": 3
+    },
+    {
+        "question": "밥 먹을 수 있는 시간 알려줘",
+        "label": 3
+    },
+    {
+        "question": "식사 제공 시간대가 어떻게 돼?",
+        "label": 3
+    },
+    {
+        "question": "오늘 셔틀 운행해?",
+        "label": 4
+    },
+    {
+        "question": "오늘 셔틀버스 운행 하나?",
+        "label": 4
+    },
+    {
+        "question": "오늘 셔틀버스 타도 돼?",
+        "label": 4
+    },
+    {
+        "question": "오늘도 셔틀 있는 거 맞지?",
+        "label": 4
+    },
+    {
+        "question": "오늘 셔틀 운행 여부 알려줘",
+        "label": 4
+    },
+    {
+        "question": "셔틀 시간표 어디서 봐?",
+        "label": 4
+    },
+    {
+        "question": "버스 시간표 좀 알려줘",
+        "label": 4
+    },
+    {
+        "question": "셔틀 시간 어떻게 확인해?",
+        "label": 4
+    },
+    {
+        "question": "오늘 셔틀 시간표 볼 수 있어?",
+        "label": 4
+    },
+    {
+        "question": "셔틀 시간표 확인 어디서 해?",
+        "label": 4
+    },
+    {
+        "question": "정문 출발 버스 몇 시야?",
+        "label": 4
+    },
+    {
+        "question": "정문에서 버스 언제 떠나?",
+        "label": 4
+    },
+    {
+        "question": "정문 출발 시간 좀 알려줘",
+        "label": 4
+    },
+    {
+        "question": "정문에서 타는 셔틀 몇 시에 와?",
+        "label": 4
+    },
+    {
+        "question": "정문에서 셔틀 언제 출발해?",
+        "label": 4
+    },
+    {
+        "question": "첫 셔틀 몇 시야?",
+        "label": 4
+    },
+    {
+        "question": "첫차 언제야?",
+        "label": 4
+    },
+    {
+        "question": "아침 첫 셔틀 시간 좀 알려줘",
+        "label": 4
+    },
+    {
+        "question": "셔틀 첫차 시간 어떻게 돼?",
+        "label": 4
+    },
+    {
+        "question": "제일 처음 출발하는 셔틀 언제야?",
+        "label": 4
+    },
+    {
+        "question": "막차 시간 몇 시야?",
+        "label": 4
+    },
+    {
+        "question": "마지막 셔틀 언제야?",
+        "label": 4
+    },
+    {
+        "question": "막차 시간 알려줄래?",
+        "label": 4
+    },
+    {
+        "question": "오늘 막차 언제 출발해?",
+        "label": 4
+    },
+    {
+        "question": "막차 시간표 어떻게 돼?",
+        "label": 4
+    },
+    {
+        "question": "셔틀 정류장 어디 있어?",
+        "label": 4
+    },
+    {
+        "question": "버스 정류장 위치 알려줘",
+        "label": 4
+    },
+    {
+        "question": "셔틀 어디서 타?",
+        "label": 4
+    },
+    {
+        "question": "학교 내 셔틀 정류장은 어디야?",
+        "label": 4
+    },
+    {
+        "question": "셔틀 타는 곳 어디인지 알아?",
+        "label": 4
+    },
+    {
+        "question": "이번 주에도 통학버스 운행해?",
+        "label": 4
+    },
+    {
+        "question": "이번 주 통학버스 정상 운행이야?",
+        "label": 4
+    },
+    {
+        "question": "통학버스 이번 주도 타도 돼?",
+        "label": 4
+    },
+    {
+        "question": "이번 주 버스 운행하는 거 맞아?",
+        "label": 4
+    },
+    {
+        "question": "이번 주 통학버스 시간 그대로야?",
+        "label": 4
+    },
+    {
+        "question": "지금 셔틀 운행 중이야?",
+        "label": 4
+    },
+    {
+        "question": "셔틀 지금 운행돼?",
+        "label": 4
+    },
+    {
+        "question": "지금 셔틀 운행 확인할 수 있어?",
+        "label": 4
+    },
+    {
+        "question": "셔틀 지금 탈 수 있어?",
+        "label": 4
+    },
+    {
+        "question": "현재 셔틀 운행 상황 어때?",
+        "label": 4
+    },
+    {
+        "question": "비 오면 셔틀 안 다녀?",
+        "label": 4
+    },
+    {
+        "question": "비 오는 날은 셔틀 운행 중단이야?",
+        "label": 4
+    },
+    {
+        "question": "비 오면 셔틀 시간 달라져?",
+        "label": 4
+    },
+    {
+        "question": "비 올 때 셔틀 운행하나?",
+        "label": 4
+    },
+    {
+        "question": "비 많이 오면 셔틀 운행 안 해?",
+        "label": 4
+    },
+    {
+        "question": "방학에도 셔틀 있어?",
+        "label": 4
+    },
+    {
+        "question": "방학 중에도 셔틀 타?",
+        "label": 4
+    },
+    {
+        "question": "방학 기간 셔틀 운행하나?",
+        "label": 4
+    },
+    {
+        "question": "방학 때도 셔틀 시간표 그대로야?",
+        "label": 4
+    },
+    {
+        "question": "방학 중 셔틀 시간 어때?",
+        "label": 4
+    }
+]

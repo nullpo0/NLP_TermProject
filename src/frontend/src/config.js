@@ -1,17 +1,20 @@
 import { createChatBotMessage } from "react-chatbot-kit";
 
 const config = {
-    botName: "CNU chatbot",
+    botName: "차차 chatbot",
     initialMessages: [
-        createChatBotMessage("안녕하세요! CNU 챗봇입니다. 무엇을 도와드릴까요?"),
+        createChatBotMessage("안녕하세요! 차차 챗봇입니다. 무엇을 도와드릴까요?"),
     ],
+    customComponents: {
+        header: () => null,
+        botAvatar: () => <div className="custom-bot-avatar">
+      <img src="/images/chacha.png" alt="bot" style={{ width: 65, height: 65, borderRadius: '50%' }} />
+    </div>
+    },
     customStyles: {
         botMessageBox: {
-            backgroundColor: "#376B7E",
-        },
-        chatButton: {
-            backgroundColor: "#5ccc9d",
-        },
+            backgroundColor: "#00aff0;",
+        }
     },
 };
 

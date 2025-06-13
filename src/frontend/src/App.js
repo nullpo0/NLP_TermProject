@@ -2,6 +2,7 @@ import React from "react";
 //import axios from 'axios';
 import Chatbot from "react-chatbot-kit";
 import "react-chatbot-kit/build/main.css";
+import './App.css'
 
 import config from "./config";
 import MessageParser from "./MessageParser";

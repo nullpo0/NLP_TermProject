@@ -1,0 +1,59 @@
+#root{
+    height: 100vh;
+    background-color: #bfdaf7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.react-chatbot-kit-chat-container {
+  width: 1024px!important;
+  height: 95vh;
+}
+
+.react-chatbot-kit-chat-inner-container{
+    height: 700px!important;
+    border-radius: 25px!important;
+    padding-top: 30px;
+}
+
+.react-chatbot-kit-chat-message-container{
+    height: 94%!important;
+    overflow: auto;
+}
+
+.react-chatbot-kit-chat-bot-message {
+  margin-left: 6px !important; /* auto를 무효화 */
+}
+
+.react-chatbot-kit-chat-header {
+    border-top-right-radius: 25px!important;
+    border-top-left-radius: 25px!important;
+}
+
+.react-chatbot-kit-chat-btn-send{
+    border-bottom-right-radius: 25px!important;
+    border-top-right-radius: 25px!important;
+    background: #bfdaf7;
+    border: 3px solid #fff;
+}
+
+.react-chatbot-kit-chat-input{
+    border-bottom-left-radius: 25px!important;
+    border-top-left-radius: 25px!important;
+    font-size: 1rem!important;
+    outline: none;
+    border-top: 1px solid #fff;
+}
+
+.react-chatbot-kit-chat-input-container{
+    height: 90px;
+}
+
+.react-chatbot-kit-chat-btn-send-icon{
+    width: 20px!important;
+}
+
+.react-chatbot-kit-user-avatar-container{
+    background-color: #0e2e89!important;
+}

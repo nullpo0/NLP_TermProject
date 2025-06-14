@@ -8,6 +8,10 @@ else
     source venv/bin/activate
 fi
 
+echo "inference for create outputs.json"
+
+python src/backend/inference.py
+
 cd src/backend
 
 uvicorn main:app --reload &

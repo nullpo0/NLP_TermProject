@@ -4,6 +4,7 @@ from torch.utils.data import Dataset
 from transformers import Trainer, TrainingArguments
 from transformers import BertTokenizer, BertForSequenceClassification
 from sklearn.model_selection import train_test_split
+from peft import get_peft_model, LoraConfig, TaskType
 
 class QuestionDataset(Dataset):
     def __init__(self, questions, labels, tokenizer, max_len=128):
@@ -35,18 +36,28 @@ model = BertForSequenceClassification.from_pretrained(model_name, num_labels=5)
 
 train_dataset = QuestionDataset(train_texts, train_labels, tokenizer)
 val_dataset = QuestionDataset(val_texts, val_labels, tokenizer)  
-  
-training_args = TrainingArguments(
-    num_train_epochs=5,
-    per_device_train_batch_size=16,
-    per_device_eval_batch_size=16,
-    eval_strategy="epoch",
-    weight_decay=0.01,
-    learning_rate=0.001,
-    save_strategy="no"
+
+# LoRA 설정
+peft_config = LoraConfig(
+    task_type=TaskType.SEQ_CLS,  # 시퀀스 분류
+    inference_mode=False,
+    r=8,  # 랭크
+    lora_alpha=16,
+    lora_dropout=0.1,
 )
 
-# 1
+# LoRA 적용
+model = get_peft_model(model, peft_config)
+
+training_args = TrainingArguments(
+    num_train_epochs=50,
+    per_device_train_batch_size=4,
+    per_device_eval_batch_size=4,
+    eval_strategy="epoch",
+    weight_decay=0.01,
+    learning_rate=5e-5,
+    save_strategy="no"
+)
 
 trainer = Trainer(
     model=model,
@@ -57,4 +68,5 @@ trainer = Trainer(
 )
 
 trainer.train()
-trainer.save_model("model/classifier_model")
+model.save_pretrained("./model/classifier_model")
+tokenizer.save_pretrained("./model/classifier_model")

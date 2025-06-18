@@ -33,17 +33,16 @@ class FTModel:
             self.tokenizer.eos_token_id,
             self.tokenizer.convert_tokens_to_ids("<|eot_id|>")
         ]
-        
-        with torch.no_grad():
-            outputs = self.model.generate(
-                input_ids,
-                max_new_tokens=128,
-                eos_token_id=terminators,
-                pad_token_id=self.tokenizer.eos_token_id,
-                do_sample=True,
-                temperature=0.6,
-                top_p=0.9,
-            )
+
+        outputs = self.model.generate(
+            input_ids,
+            max_new_tokens=128,
+            eos_token_id=terminators,
+            pad_token_id=self.tokenizer.eos_token_id,
+            do_sample=True,
+            temperature=0.6,
+            top_p=0.9,
+        )
         
         return outputs[0][input_ids.shape[-1]:]
     

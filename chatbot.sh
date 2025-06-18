@@ -10,11 +10,11 @@ fi
 
 echo "inference for create outputs.json"
 
-python src/backend/inference.py
+python src/backend/inference.py &
 
 cd src/backend
 
-uvicorn main:app --reload &
+uvicorn main:app --reload --log-level warning --no-access-log &
 BACKEND_PID=$!
 cd ..
 

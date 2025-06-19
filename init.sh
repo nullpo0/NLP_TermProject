@@ -18,7 +18,7 @@ nodeenv -p
 
 echo "install python dependency..."
 
-pip install -r requirements.txt
+pip install -r requirements2.txt
 
 read -p "Do you want to install the GPU version of PyTorch? (y/n): " use_gpu
 

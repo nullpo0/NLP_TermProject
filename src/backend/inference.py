@@ -18,7 +18,7 @@ for question in tqdm(test_chat['user']):
     answer = model.tokenizer.decode(model.generate_answer(prompt=prompt1, question=question), skip_special_tokens=True)
     dic1.append({"user": question, "model": answer})
     
-with open("./outputs/chat_outputs.json", "w", encoding="utf-8") as f:
+with open("./outputs/chat_output.json", "w", encoding="utf-8") as f:
     json.dump(dic1, f, ensure_ascii=False, indent=4)
     
     
@@ -35,6 +35,6 @@ for question in tqdm(test_realtime['user']):
     answer = model.tokenizer.decode(model.generate_answer(prompt=prompt2, question=question), skip_special_tokens=True)
     dic2.append({"user": question, "model": answer})
 
-with open("./outputs/realtime_outputs.json", "w", encoding="utf-8") as f:
+with open("./outputs/realtime_output.json", "w", encoding="utf-8") as f:
     json.dump(dic2, f, ensure_ascii=False, indent=4)
     

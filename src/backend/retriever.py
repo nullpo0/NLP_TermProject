@@ -1,9 +1,17 @@
-# RAG적용 메서드를 정의하는 파일
+from langchain.vectorstores import Chroma
+from langchain.embeddings import HuggingFaceEmbeddings
 
-# input : 사용자 질문
-# output : 벡터 DB 검색 결과
+class Retriever:
+    def __init__(self, persist_directory="./src/backend/vectorDB"):
+        self.embedding_model = HuggingFaceEmbeddings(model_name="jhgan/ko-sbert-sts")
+        self.db = Chroma(
+            persist_directory=persist_directory,
+            embedding_function=self.embedding_model
+        )
 
-def retriever(question):
-    # vetorDB에서 검색 후 결과를 retrieve_result에 저장
-    retrieve_result = None
-    return retrieve_result
+    def retrieve(self, question, label):
+        print(label)
+        if label == "졸업요건":
+            return "없음"
+        retrieve_result = self.db.similarity_search(question, k=1, filter={"category": label})
+        return retrieve_result[0].page_content

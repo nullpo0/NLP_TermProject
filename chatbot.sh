@@ -8,9 +8,9 @@ else
     source venv/bin/activate
 fi
 
-echo "inference for create outputs.json"
+echo "inference for create output.json"
 
-python src/backend/inference.py &
+python src/backend/inference.py
 
 cd src/backend
 

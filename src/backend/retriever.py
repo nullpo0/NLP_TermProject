@@ -10,7 +10,6 @@ class Retriever:
         )
 
     def retrieve(self, question, label):
-        print(label)
         if label == "졸업요건":
             return "없음"
         retrieve_result = self.db.similarity_search(question, k=1, filter={"category": label})

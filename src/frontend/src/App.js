@@ -37,6 +37,7 @@ function App() {
   return (
     <div className="App">
       <Chatbot
+        placeholderText="질문을 입력해주세요!"
         config={config}
         messageParser={MessageParser}
         actionProvider={ActionProvider}

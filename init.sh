@@ -20,6 +20,9 @@ echo "install python dependency..."
 
 pip install -r requirements.txt
 
+echo "install pytorch..."
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
 echo "install node.js dependency..."
 
 cd src/frontend

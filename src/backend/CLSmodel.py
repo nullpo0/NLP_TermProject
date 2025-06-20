@@ -10,7 +10,7 @@ class CLSModel:
         self.model.eval()
         self.label = ["졸업요건", "학교 공지사항", "학사일정", "식단 안내", "통학/셔틀버스"]
         
-    def classification(self, question):
+    def classification(self, question, string=True):
         inputs = self.tokenizer(question, return_tensors="pt", truncation=True, padding=True, max_length=128)
 
         with torch.no_grad():
@@ -19,4 +19,8 @@ class CLSModel:
             predict = logits.argmax(dim=-1).item()
         
         label = self.label[predict]
-        return label
+        
+        if string is True:
+            return label
+        else:
+            return predict

@@ -46,8 +46,9 @@ async def get_status():
 @app.post("/chat")
 async def chat(data: Data):
     label = clsmodel.classification(data.message)
+    print(label)
     retrieve_result = retriever.retrieve(data.message, label)
-    
+    print(retrieve_result)
     PROMPT = f"""
             당신은 충남대학교 인공지능 챗봇입니다. 사용자의 질문에 대해 짧게 한 두 문장으로 답변하세요. 아래 자료를 참고하여 사용자의 질문에 대해 짧게 한 두 문장으로 답변하세요.
             

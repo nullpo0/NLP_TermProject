@@ -18,15 +18,10 @@ nodeenv -p
 
 echo "install python dependency..."
 
-pip install -r requirements2.txt
+pip install -r requirements.txt
 
-read -p "Do you want to install the GPU version of PyTorch? (y/n): " use_gpu
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
-if [[ "$use_gpu" == "y" || "$use_gpu" == "Y" ]]; then
-    pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-else
-    pip3 install torch torchvision torchaudio
-fi
 
 echo "install node.js dependency..."
 

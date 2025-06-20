@@ -37,16 +37,14 @@ model = BertForSequenceClassification.from_pretrained(model_name, num_labels=5)
 train_dataset = QuestionDataset(train_texts, train_labels, tokenizer)
 val_dataset = QuestionDataset(val_texts, val_labels, tokenizer)  
 
-# LoRA 설정
 peft_config = LoraConfig(
-    task_type=TaskType.SEQ_CLS,  # 시퀀스 분류
+    task_type=TaskType.SEQ_CLS,  
     inference_mode=False,
-    r=8,  # 랭크
+    r=8,  
     lora_alpha=16,
     lora_dropout=0.1,
 )
 
-# LoRA 적용
 model = get_peft_model(model, peft_config)
 
 training_args = TrainingArguments(
